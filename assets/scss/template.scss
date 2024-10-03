@@ -7,3 +7,33 @@
 .cta-group {
   justify-content: center;
 }
+
+// Light mode styles
+body {
+  background-color: rgb(247, 250, 252); /* 라이트 모드 배경색 */
+  color: #000; /* 라이트 모드 텍스트 색상 */
+}
+
+.universal-wrapper h1 {
+  color: #333; /* 라이트 모드에서 제목 색상 */
+}
+
+.cta-group button {
+  background-color: #007bff; /* 라이트 모드에서 CTA 버튼 배경색 */
+  color: #fff; /* 라이트 모드에서 CTA 버튼 텍스트 색상 */
+}
+
+// Dark mode styles
+.dark body {
+  background-color: rgb(31, 39, 51); /* 다크 모드 배경색 */
+  color: #fff; /* 다크 모드 텍스트 색상 */
+}
+
+.dark .universal-wrapper h1 {
+  color: #fff; /* 다크 모드에서 제목 색상 */
+}
+
+.dark .cta-group button {
+  background-color: #0056b3; /* 다크 모드에서 CTA 버튼 배경색 */
+  color: #fff; /* 다크 모드에서 CTA 버튼 텍스트 색상 */
+}

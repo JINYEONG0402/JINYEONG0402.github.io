@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  theme_day: custom
+  theme_night: custom
   font: native
   font_size: L
 
@@ -15,7 +15,7 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Person
     local_business_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
@@ -34,7 +34,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: c
     show_logo: true
     show_language: false
     show_day_night: true
