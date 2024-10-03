@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 
+  - name:
     url: information
     weight: 10
 
@@ -16,7 +16,7 @@ main:
     name: 유튜브
     url: publication
   - parent: interest
-    name: 유튜브
+    name: IT, 뉴스레터
     url: publication
 
   - name: CSAI
