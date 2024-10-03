@@ -9,8 +9,6 @@ sections:
     content:
       title: |
         안녕하세요
-      image:
-        filename: computer.jpg
       text: |
         <br>
 
