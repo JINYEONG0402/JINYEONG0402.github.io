@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        안녕하세요
       image:
-        filename: welcome.jpg
+        filename: computer.jpg
       text: |
         <br>
 
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        저의 블로그에 오신 걸 환영합니다! 주로 제가 진행한 프로젝트를 업로드할 예정입니다.
 
   - block: slider
     content:
@@ -115,5 +114,4 @@ sections:
     design:
       view: citation
       columns: "1"
-
 ---
