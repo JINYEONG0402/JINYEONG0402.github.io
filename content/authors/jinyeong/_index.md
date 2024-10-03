@@ -1,8 +1,6 @@
 ---
 # Display name
 title: JINYEONG
-date: 2022-10-24
-type: landing
 
 # Full name (for SEO)
 first_name: JINYEONG
