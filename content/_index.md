@@ -17,24 +17,52 @@ sections:
 
         The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
 
-  - block: silder
+  - block: slider
     content:
-      title:
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ""
-        category: ""
-        exclude_featured: false
-        publication_type: ""
-        tag: ""
-      offset: 0
-      order: desc
-      page_type: tour
-    #design:
-    #view: slider
-    #columns: "1"
+      slides:
+        - title: 👋 어서오세요 반갑습니다
+          content: "jinyeong portplio"
+          align: center
+          background:
+            image:
+              filename: AI.jpg
+              filters:
+                brightness: 0.7
+            position: right
+            color: "#666"
+        - title: show
+          content: "팀 과제, 공부, 관심있는 것"
+          align: left
+          background:
+            image:
+              filename: C.jpg
+              filters:
+                brightness: 0.7
+            position: center
+            color: "#555"
+        - title: JBNU
+          content: "컴퓨터인공지능학부(CSAI)"
+          align: right
+          background:
+            image:
+              filename: csai.jpg
+              filters:
+                brightness: 0.5
+            position: center
+            color: "#333"
+          link:
+            icon: graduation-cap
+            icon_pack: fas
+            text: 클릭
+            url: ../contact/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ""
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
 
   - block: markdown
     content:
