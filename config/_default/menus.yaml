@@ -4,21 +4,40 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
+  - name: 
+    url: information
     weight: 10
-  - name: News
+
+  - name: interest
     url: post
     weight: 20
-  - name: People
+     hasChildren: true
+  - parent: interest
+    name: 유튜브
+    url: publication
+  - parent: interest
+    name: 유튜브
+    url: publication
+
+  - name: CSAI
     url: people
     weight: 30
-  - name: Events
+
+  - name: Study
     url: event
     weight: 40
-  - name: Publications
+    hasChildren: true
+  - parent: Study
+    name: Plan
+    url: event
+  - parent: Study
+    name: study
+    url: event
+
+  - name: publication
     url: publication
     weight: 50
-  - name: Contact
+
+  - name: contact
     url: contact
     weight: 60
