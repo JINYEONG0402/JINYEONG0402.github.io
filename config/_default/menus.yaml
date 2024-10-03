@@ -9,11 +9,11 @@ main:
     weight: 10
 
   - name: introduce
-    url: post
+    url: jinyeong
     weight: 20
 
   - name: CSAI
-    url: authors
+    url: news
     weight: 30
 
   - name: Study
