@@ -17,8 +17,7 @@ sections:
 
         The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
 
-
-  - block: collection
+  - block: silder
     content:
       title:
       subtitle:
@@ -33,9 +32,9 @@ sections:
       offset: 0
       order: desc
       page_type: tour
-    design:
-      view: slider
-      columns: "1"
+    #design:
+    #view: slider
+    #columns: "1"
 
   - block: markdown
     content:
