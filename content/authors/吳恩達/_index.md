@@ -1,45 +1,42 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: JINYEONG
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: JINYEONG
+last_name: KOH
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 고진영
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: IT지능정보공학과
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: 전북대학교(JBNU)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 웹서비스 설계를 통한 포트폴리오 만들기
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - C++
+  - Javascript
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: high school
+      institution: 진해여자고등학교 
+      year: 2019
+    - course: IT지능정보공학과
+      institution: 전북대학교
+      year: 2022
+   
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -49,15 +46,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:test@example.org'
-  - icon: twitter
+  - icon: instagram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.instagram.com/vi0let_o/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/JINYEONG0402
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,6 +68,8 @@ user_groups:
   - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+안녕하세요, 현재 전북대학교 IT지능정보공학과에 재학중인 고진영입니다. 현재 과 이름은 '컴퓨터인공지능학부'입니다.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+저희 과에서는 디지털 전환 시대 및 4차산업혁명 시대를 선도할 인재를 양성하기 위해, 컴퓨터과학 세계 표준 교육과정 및 산업체 수요를 적극 반영하여, 9대 핵심역량인 5C-GIANT를 정의하였으며, 이를 기반으로 AI, IoT, 클라우드/빅데이터, 블록체인/정보보호의 심화전공으로 하고 산학실전캡스톤 프로그램을 다수 운영하는 교과과정을 새롭게 수립하였습니다. 우리 학부는 AI 및 신기술 요구에 적극 대응하면서 미래 지능정보사회 및 초연결 사회에 종사할 학생들에게 요구되는 지식을 체계적이고 효율적으로 교육하기 위하여 교육 목표를 "미래기술지향적으로 문제해결역량을 갖춘 산업체 수요 기반 5C-GIANT형 글로벌 디지털 인재 양성 "에 두고 있습니다.
+
+
