@@ -64,7 +64,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
 안녕하세요, 현재 전북대학교 IT지능정보공학과에 재학중인 고진영입니다. 현재 과 이름은 '컴퓨터인공지능학부'입니다.
