@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: JINYEONG
 date: 2022-10-24
 type: landing
 
@@ -63,6 +63,25 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
+
+   - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'    
 
   - block: markdown
     content:
