@@ -13,19 +13,19 @@ main:
     weight: 20
 
   - name: CSAI
-    url: post
+    url: event
     weight: 30
 
   - name: Study
-    url: event
+    url: post
     weight: 40
     hasChildren: true
   - parent: Study
     name: Plan
-    url: event
+    url: post
   - parent: Study
     name: study
-    url: event
+    url: post
 
   - name: interest
     url: publication
