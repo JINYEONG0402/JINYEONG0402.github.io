@@ -19,7 +19,7 @@ sections:
     content:
       slides:
         - title: 👋 어서오세요 반갑습니다
-          content: "jinyeong portplio"
+          content: "jinyeong portfolio"
           align: center
           background:
             image:

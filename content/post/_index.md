@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: 학과 관련 사이트
 
 # Listing view
 view: compact
