@@ -27,7 +27,7 @@ sections:
       office_hours:
         - everyday 10:00 - 18:00
 
-      appointment_url: "https://calendly.com"
+      appointment_url: "https://open.kakao.com/o/s1GLezSg"
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
