@@ -1,6 +1,6 @@
 ---
 # Display name
-title: JINYEONG
+title: 고진영
 
 # Full name (for SEO)
 first_name: JINYEONG
