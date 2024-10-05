@@ -17,7 +17,7 @@ main:
     weight: 30
 
   - name: Project
-    url: resume
+    url: project
     weight: 40
     hasChildren: true
 
