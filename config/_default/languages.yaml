@@ -9,24 +9,14 @@ defaultContentLanguageInSubdir:
 
 languages:
   ko:
+    languageCode: ko-kr
     contentDir: content/ko
-    disabled: false
-    languageCode: ko
-    languageDirection: ltr
     languageName: 한국어
-    params:
-      subtitle: 참조, 튜토리얼 및 설명
-    title: 프로젝트 문서
     weight: 1
   en:
     contentDir: content/en
-    disabled: false
-    languageCode: en
-    languageDirection: ltr
+    languageCode: en-us
     languageName: English
-    params:
-      subtitle: Reference, Tutorials, and Explanations
-    title: Project Documentation
     weight: 2
 
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
