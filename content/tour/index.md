@@ -44,7 +44,7 @@ sections:
             text: 클릭
             url: ../contact/
 
-  -  block: collection
+  - block: collection
     content:
       title: 프로젝트
       subtitle:
