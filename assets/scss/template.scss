@@ -1,7 +1,7 @@
 // Make page header alignment consistent with widget page header alignment
 .universal-wrapper h1 {
   text-align: center;
-  background-color: rgb(164, 239, 195);
+  color: rgb(164, 239, 195);
 }
 
 // Center the CTA shortcode button
@@ -24,11 +24,8 @@ body {
   color: #fff; /* 라이트 모드에서 CTA 버튼 텍스트 색상 */
 }
 
-button:hover {
+.hover button {
   background-color: yellow;
-}
-header {
-  background-color: rgb(164, 239, 195); /* 라이트 모드에서 header 배경색 */
 }
 
 // Dark mode styles
