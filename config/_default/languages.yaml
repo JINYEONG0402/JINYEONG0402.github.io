@@ -2,7 +2,8 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-defaultContentLanguage: en
+defaultContentLanguage:
+  code: en
 # defaultContentLanguageInSubdir: true
 
 languages:
