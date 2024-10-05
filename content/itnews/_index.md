@@ -6,6 +6,6 @@ view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: ""
-  image: ""
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/Zua2hyvTBk)"
+  image: "collabstr-nwCikL2T5qg-unsplash.jpg"
 ---
