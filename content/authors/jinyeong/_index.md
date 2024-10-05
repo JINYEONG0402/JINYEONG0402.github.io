@@ -51,6 +51,10 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/JINYEONG0402
+  - icon: discode
+    icon_pack: fab
+    link: https://discord.gg/YZsvCdQZ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,6 +70,6 @@ user_groups:
   - click photo
 ---
 
-안녕하세요, 현재 전북대학교 IT지능정보공학과에 재학중인 고진영입니다. 현재 과 이름은 '컴퓨터인공지능학부'입니다.
+안녕하세요, 현재 전북대학교 IT지능정보공학과에 재학중인 고진영입니다.
 
 저희 과에서는 디지털 전환 시대 및 4차산업혁명 시대를 선도할 인재를 양성하기 위해, 컴퓨터과학 세계 표준 교육과정 및 산업체 수요를 적극 반영하여, 9대 핵심역량인 5C-GIANT를 정의하였으며, 이를 기반으로 AI, IoT, 클라우드/빅데이터, 블록체인/정보보호의 심화전공으로 하고 산학실전캡스톤 프로그램을 다수 운영하는 교과과정을 새롭게 수립하였습니다. 우리 학부는 AI 및 신기술 요구에 적극 대응하면서 미래 지능정보사회 및 초연결 사회에 종사할 학생들에게 요구되는 지식을 체계적이고 효율적으로 교육하기 위하여 교육 목표를 "미래기술지향적으로 문제해결역량을 갖춘 산업체 수요 기반 5C-GIANT형 글로벌 디지털 인재 양성 "에 두고 있습니다.

@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-        - title: 어서오세요 반갑습니다
-          content: "IT지능정보공학과 고진영입니다."
+        - title: 안녕하세요 반갑습니다
+          content: "전북대학교 IT지능정보공학과 고진영입니다."
           align: center
           background:
             image:
