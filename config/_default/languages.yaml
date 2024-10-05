@@ -9,14 +9,14 @@ defaultContentLanguage:
 languages:
   en:
     languageCode: en-us
-    languageName: English
+    languageName: "English"
     weight: 1
-    contentDir: content/en
+    contentDir: "content/en"
   ko:
     languageCode: ko-kr
-    languageName: 한국어
+    languageName: "한국어"
     weight: 2
-    contentDir: content/ko
+    contentDir: "content/ko"
 
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
