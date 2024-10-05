@@ -76,6 +76,10 @@ user_groups:
   - click photo
 ---
 
-Hello, I'm Koh Jin-young, currently in the IT Intelligence and Information Engineering Department at Chonbuk National University.
+Hello, I'm Ko Jin-young, majoring in IT intelligence and information engineering at Chonbuk National University.
+I am thinking of a career path related to our department. I have not decided on a specific career path yet, but I am thinking of web programming related to AI.
+My goal is to get a job at a stable and future-oriented IT company.
 
 In order to cultivate talents who will lead the era of digital transformation and the 4th industrial revolution, our department defined the 9 core competencies, 5C-GIANT, by actively reflecting the world standard curriculum and industrial demand in computer science. Based on this, we majored in AI, IoT, cloud/big data, and blockchain/information protection
+
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

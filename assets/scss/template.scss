@@ -10,8 +10,8 @@
 
 // Light mode styles
 body {
-  background-color: rgb(247, 250, 252); /* 라이트 모드 배경색 */
-  color: #000; /* 라이트 모드 텍스트 색상 */
+  background-color: rgb(143, 181, 207); /* 라이트 모드 배경색 */
+  color: #000e4b; /* 라이트 모드 텍스트 색상 */
 }
 
 .universal-wrapper h1 {
@@ -19,8 +19,12 @@ body {
 }
 
 .cta-group button {
-  background-color: #007bff; /* 라이트 모드에서 CTA 버튼 배경색 */
+  background-color: #7ad2cf; /* 라이트 모드에서 CTA 버튼 배경색 */
   color: #fff; /* 라이트 모드에서 CTA 버튼 텍스트 색상 */
+}
+
+.button:hover {
+  background-color: yellow;
 }
 
 // Dark mode styles
