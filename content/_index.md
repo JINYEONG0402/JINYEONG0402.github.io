@@ -5,20 +5,11 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: |
-        안녕하세요
-      text: |
-        <br>
-
-        IT지능정보공학과 고진영입니다. 저의 블로그에 오신 걸 환영합니다.
-
   - block: slider
     content:
       slides:
-        - title: 👋 어서오세요 반갑습니다
-          content: "jinyeong portfolio"
+        - title: 어서오세요 반갑습니다
+          content: "IT지능정보공학과 고진영입니다."
           align: center
           background:
             image:
@@ -27,9 +18,9 @@ sections:
                 brightness: 0.7
             position: right
             color: "#666"
-        - title: show
-          content: "팀 과제, 공부, 관심있는 것"
-          align: left
+        - title: Portfolio
+          content: "#코딩 #IT"
+          align: center
           background:
             image:
               filename: C.jpg
@@ -37,9 +28,9 @@ sections:
                 brightness: 0.7
             position: center
             color: "#555"
-        - title: JBNU
-          content: "컴퓨터인공지능학부(CSAI)"
-          align: right
+        - title: contact
+          content: "더 자세한 사항은... "
+          align: center
           background:
             image:
               filename: jbnu.jpg
@@ -63,7 +54,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest News
+      title: it, 테크닉 뉴스
       subtitle:
       text:
       count: 5
@@ -107,7 +98,7 @@ sections:
       count: 5
       filters:
         folders:
-          - publication
+          - project
         publication_type: "article"
     design:
       view: citation
