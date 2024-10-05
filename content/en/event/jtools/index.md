@@ -1,19 +1,19 @@
 ---
 title: JEdutools
 
-event: '#코딩 #클라우드 #JBNU'
+event: "#Coding #Cloud #JBNU"
 event_url: https://jedutools.jbnu.ac.kr/
 
-location: 전북대학교 SW중심대학사업단
+location: Jhonbuk National University Engineering Department No. 7
 address:
-  street: 백제대로 567
-  city: 전주시 덕진구
-  region: 전라북도
+  street:  Baekje-daero 567
+  city: Jeonju City Deokjin-gu
+  region: Jeollabuk-do
   postcode: '54896'
-  country: 대한민국
+  country: Republic of Korea
 
-summary: 학과 소개
-jedutools 소개: 'JEduTools는 재학생들이 직접 참여하여 개발하는 전북대학교의 SW 교육을 위한 학습 플랫폼입니다. 실제 사용하는 SW 도구 개발에 기여하며 실전적인 경험을 쌓고, 오픈소스 기여 문화를 통해 함께 성장합니다.
+summary: jedutools
+jedutools 소개: 'JEdu Tools is a learning platform for SW education at Chonbuk National University developed by students. It contributes to the development of real-world SW tools, gains practical experience, and grows together through an open-source contribution culture.
 '
 
 

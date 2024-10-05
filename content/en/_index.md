@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-        - title: 안녕하세요 반갑습니다
-          content: "전북대학교 IT지능정보공학과 고진영입니다."
+        - title: Hello Nice to meet you.
+          content: "'m Ko Jin-young from Chonbuk National University's IT Intelligence and Information."
           align: center
           background:
             image:
@@ -19,7 +19,7 @@ sections:
             position: right
             color: "#666"
         - title: Portfolio
-          content: "#코딩 #IT"
+          content: "#coding #IT"
           align: center
           background:
             image:
@@ -29,7 +29,7 @@ sections:
             position: center
             color: "#555"
         - title:
-          content: "더 자세한 사항은... "
+          content: "For more information... "
           align: center
           background:
             image:
@@ -41,7 +41,7 @@ sections:
           link:
             icon: graduation-cap
             icon_pack: fas
-            text: 클릭
+            text: Click
             url: ../people/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
@@ -54,7 +54,7 @@ sections:
 
   - block: collection
     content:
-      title: it, 테크닉 뉴스
+      title: It, Technique News
       subtitle:
       text:
       count: 5
@@ -73,7 +73,7 @@ sections:
 
   - block: collection
     content:
-      title: it 유튜버
+      title: it youtuber
       subtitle:
       text:
       count: 5
@@ -112,7 +112,7 @@ sections:
 
   - block: collection
     content:
-      title: 프로젝트
+      title: project
       subtitle:
       text:
       count: 5

@@ -1,5 +1,5 @@
 ---
-title: 일분톡
+title: one minute talk
 date: 2023-06-02
 image:
   focal_point: 'top'
@@ -9,4 +9,4 @@ url: http://ilbuntok.com/
 
 <!--more-->
 
-일분톡은 IT 및 4차 산업혁명 관련 이슈를 다루는 뉴스레터 서비스입니다. 매주 월, 수, 금에 최신 테크 트렌드와 정보를 1분 안에 읽을 수 있도록 간결하게 구성된 콘텐츠를 이메일로 제공합니다. 이를 통해 독자들은 복잡한 IT 뉴스와 트렌드를 쉽게 이해하고 소화할 수 있습니다. 최근에는 더 깊이 있는 내용을 제공하는 **일분 플러스+**라는 서비스를 운영하여 글로벌 IT 이슈에 대한 인사이트를 확대하고 있습니다​ 자세한 내용은 일분톡 웹사이트에서 확인할 수 있습니다.
+One Minute Talk is a newsletter service that covers issues related to IT and the Fourth Industrial Revolution. Every Monday, Wednesday, and Friday, we provide concisely organized content to read the latest tech trends and information in one minute. This makes it easy for readers to understand and digest complex IT news and trends. Recently, we have expanded our insights on global IT issues by operating a service called **Minute Plus+** that offers more in-depth content. More information is available on the One Minute Talk website.

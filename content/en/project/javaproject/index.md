@@ -1,18 +1,18 @@
 ---
-title: java를 이용하여 퍼즐게임 만들기
+title: Create a puzzle game using java
 date: 2023-06-02
 image:
   focal_point: "top"
 ---
 
-객체지향 프로그래밍을 기반으로 한 이미지 퍼즐 게임
+Image puzzle game based on object-oriented programming
 
 <!--more-->
 
-객체지향 프로그래밍을 기반으로 한 이미지 퍼즐 게임입니다. 사용자 인터페이스는 직관적이며, 사용자가 게임을 쉽게 시작하고 진행할 수 있도록 설계되었습니다. 게임을 시작하려면 먼저 'open' 버튼을 눌러 이미지 파일(jpg 또는 png)을 선택합니다. 이미지 선택 후, 난이도를 설정할 수 있으며, 난이도는 상, 중, 하로 나뉘고, 퍼즐의 크기는 3x3, 4x4, 5x5 중에서 선택할 수 있습니다.
+It is an image puzzle game based on object-oriented programming. The user interface is intuitive, and is designed to make it easy for the user to start and proceed with the game. To start the game, press the 'open' button first to select an image file (jpg or png). After selecting the image, you can set the difficulty level, which is divided into upper, middle, and lower, and the size of the puzzle can be selected from 3x3, 4x4, and 5x5.
 
-게임 실행 화면에서는 음량 조절 버튼과 함께 선택한 옵션이 반영됩니다. 퍼즐 게임의 기본적인 규칙은 빈칸과 인접한 칸을 클릭하여 빈칸으로 자리를 이동시키는 것입니다. 사용자가 조작을 하면서 퍼즐을 맞추고, 왼쪽과 오른쪽 화면을 동일하게 맞추면 퍼즐이 완성됩니다.
+The game's execution screen reflects the options you select along with the volume control button. The basic rule of the puzzle game is to move the seats to the blanks by clicking on the spaces adjacent to them. The puzzle is completed by the user working on it, while matching the left and right screens to the same.
 
-게임이 완료되면 성공 창이 나타나며, 확인 버튼을 클릭하면 창이 닫힙니다. '뒤로가기' 버튼을 클릭하면 시작 화면으로 돌아가고, '종료' 버튼을 클릭하면 프로그램이 종료됩니다. 또한, '초기화' 버튼을 클릭하면 버튼의 재배열이 이루어지며, 걸린 시간도 초기화됩니다. 이러한 기능을 통해 사용자들은 퍼즐을 재도전할 수 있는 기회를 갖게 됩니다.
+When the game is over, a success window will appear, and a click on the OK button will close the window. Click the 'Back' button to return to the start screen, and click the 'End' button to exit the program. In addition, clicking the 'Initialize' button will rearrange the buttons and reset the time it took. These features will give users the opportunity to try the puzzle again.
 
-이 프로젝트는 객체지향 프로그래밍의 원리를 활용하여 효과적인 게임 구조를 구현하고, 사용자의 편의성을 고려한 디자인이 돋보이는 퍼즐 게임입니다.
+This project is a puzzle game that uses the principle of object-oriented programming to implement an effective game structure and stand out in design considering user convenience.

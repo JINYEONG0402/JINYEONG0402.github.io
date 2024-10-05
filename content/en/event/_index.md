@@ -1,5 +1,5 @@
 ---
-title: 학과 관련 사이트
+title: department-related site
 
 # Listing view
 view: compact

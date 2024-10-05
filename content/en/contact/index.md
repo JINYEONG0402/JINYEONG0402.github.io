@@ -9,21 +9,21 @@ sections:
     content:
       title: Contact
       text: |-
-        여기로 이메일 보내주세요!
+        Please email me here!
 
       email: gjy1614@jbnu.ac.kr
       phone: 010-4895-8655
       address:
-        street: 백제대로 567
-        city: 전주시 덕진구
-        region: 전라북도
+        street: 567 Baekje-daero
+        city: Jeonju City Deokjin-gu
+        region: Jeollabuk-do
         postcode: "54896"
-        country: 대한민국
+        country: Republic of Korea
         country_code: ko
       coordinates:
         latitude: "35.8460469"
         longitude: "127.1346038"
-      directions: 공과대학 7호관
+      directions: engineering college Building 7
       office_hours:
         - everyday 10:00 - 18:00
 

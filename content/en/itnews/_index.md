@@ -1,5 +1,5 @@
 ---
-title: IT 관련 뉴스레터
+title: IT newsletters
 
 # Listing view
 view: compact

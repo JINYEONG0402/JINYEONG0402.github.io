@@ -1,5 +1,5 @@
 ---
-title: IT 관련 유튜브
+title: IT-related YouTube
 
 # Listing view
 view: compact
