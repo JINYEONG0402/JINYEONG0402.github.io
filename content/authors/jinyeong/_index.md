@@ -51,7 +51,13 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/JINYEONG0402
-  - icon: discode
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/profile.php?id=100010275607749
+  - icon: whatsapp
+    icon_pack: fab
+    link: https://whatsapp.com/dl/
+  - icon: discord
     icon_pack: fab
     link: https://discord.gg/YZsvCdQZ
 
