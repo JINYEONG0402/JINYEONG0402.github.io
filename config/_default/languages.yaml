@@ -3,6 +3,8 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 defaultContentLanguage:
   code: ko
+defaultContentLanguageInSubdir:
+  enable: true
 
 # Default language
 ko:
