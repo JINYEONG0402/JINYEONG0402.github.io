@@ -11,7 +11,7 @@ languages:
   ko:
     contentDir: content/ko
     disabled: false
-    languageCode: ko-KR
+    languageCode: ko
     languageDirection: ltr
     languageName: 한국어
     params:
@@ -21,7 +21,7 @@ languages:
   en:
     contentDir: content/en
     disabled: false
-    languageCode: en-US
+    languageCode: en
     languageDirection: ltr
     languageName: English
     params:
