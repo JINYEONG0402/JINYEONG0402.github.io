@@ -28,12 +28,12 @@ sections:
                 brightness: 0.7
             position: center
             color: "#555"
-        - title: contact
+        - title:
           content: "더 자세한 사항은... "
           align: center
           background:
             image:
-              filename: jbnu.jpg
+              filename: phone.jpg
               filters:
                 brightness: 0.5
             position: center
@@ -42,7 +42,7 @@ sections:
             icon: graduation-cap
             icon_pack: fas
             text: 클릭
-            url: ../contact/
+            url: ../people/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ""
@@ -80,7 +80,7 @@ sections:
       columns: "1"
       background:
         image:
-          filename: coders.jpg
+          filename: people.jpg
           filters:
             brightness: 1
           parallax: false
@@ -90,17 +90,12 @@ sections:
       spacing:
         padding: ["20px", "0", "20px", "0"]
       css_class: fullscreen
-
-  - block: collection
+  - block: markdown
     content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - project
-        publication_type: "article"
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./contact/" cta_text=" send email →" %}}
     design:
-      view: citation
       columns: "1"
 ---
