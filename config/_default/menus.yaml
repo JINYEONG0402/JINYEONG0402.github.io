@@ -12,8 +12,8 @@ main:
     url: people
     weight: 20
 
-  - name: link
-    url: link
+  - name: CSAI(JBNU)
+    url: event
     weight: 30
 
   - name: Project
@@ -21,9 +21,7 @@ main:
     weight: 40
     hasChildren: true
 
-
   - name: interest
-    url: itit
     weight: 50
     hasChildren: true
   - parent: interest
@@ -31,7 +29,7 @@ main:
     url: youtube
   - parent: interest
     name: IT, 뉴스레터
-    url: news
+    url: itnews
 
   - name: contact
     url: contact
