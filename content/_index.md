@@ -71,13 +71,32 @@ sections:
       view: card
       columns: "1"
 
+  - block: collection
+    content:
+      title: it 유튜버
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ""
+        category: ""
+        exclude_featured: false
+        publication_type: ""
+        tag: ""
+      offset: 0
+      order: desc
+      page_type: youtube
+    design:
+      view: card
+      columns: "1"
+
   - block: markdown
     content:
       title:
       subtitle: ""
       text:
     design:
-      columns: "1"
+      columns: "0.5"
       background:
         image:
           filename: people.jpg
@@ -90,6 +109,26 @@ sections:
       spacing:
         padding: ["20px", "0", "20px", "0"]
       css_class: fullscreen
+
+  - block: collection
+    content:
+      title: 프로젝트
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ""
+        category: ""
+        exclude_featured: false
+        publication_type: ""
+        tag: ""
+      offset: 0
+      order: desc
+      page_type: project
+    design:
+      view: card
+      columns: "1"
+
   - block: markdown
     content:
       title:
