@@ -22,7 +22,7 @@ sections:
           align: center
           background:
             image:
-              filename: AI.jpg
+              filename: code.jpg
               filters:
                 brightness: 0.7
             position: right
@@ -42,7 +42,7 @@ sections:
           align: right
           background:
             image:
-              filename: csai.jpg
+              filename: jbnu.jpg
               filters:
                 brightness: 0.5
             position: center
