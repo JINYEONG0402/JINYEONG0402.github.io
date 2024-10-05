@@ -12,31 +12,26 @@ main:
     url: people
     weight: 20
 
-  - name: CSAI
-    url: event
+  - name: link
+    url: link
     weight: 30
 
-  - name: Study
-    url: post
+  - name: Project
+    url: project
     weight: 40
     hasChildren: true
-  - parent: Study
-    name: Plan
-    url: post
-  - parent: Study
-    name: study
-    url: post
+
 
   - name: interest
-    url: publication
+    url: itit
     weight: 50
     hasChildren: true
   - parent: interest
     name: 유튜브
-    url: publication
+    url: youtube
   - parent: interest
     name: IT, 뉴스레터
-    url: publication
+    url: news
 
   - name: contact
     url: contact

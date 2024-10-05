@@ -1,5 +1,5 @@
 ---
-title: 학과 관련 사이트
+title: 프로젝트
 
 # Listing view
 view: compact
