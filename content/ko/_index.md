@@ -51,6 +51,8 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 4000
+      background:
+           color: rgb(164, 239, 195);
 
   - block: collection
     content:
@@ -70,6 +72,8 @@ sections:
     design:
       view: card
       columns: "1"
+      background:
+           color: rgb(164, 239, 195);
 
   - block: collection
     content:
@@ -89,6 +93,8 @@ sections:
     design:
       view: card
       columns: "1"
+      background:
+           color: rgb(164, 239, 195);
 
   - block: markdown
     content:
