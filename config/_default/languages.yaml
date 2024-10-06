@@ -6,9 +6,6 @@
 defaultContentLanguage:
   code: ko-kr
 
-defaultContentLanguageInSubdir:
-  enable: true
-
 ko:
   languageCode: ko-kr
   languageName: "한국어"
