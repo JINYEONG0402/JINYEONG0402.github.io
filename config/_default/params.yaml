@@ -54,9 +54,9 @@ footer:
 # Localization
 
 locale:
-  date_format: "Jan 2, 2006"
-  time_format: "3:04 PM"
-  address_format: en-us
+  date_format: "october 2, 2024"
+  time_format: "10:53 AM"
+  address_format: ko-kr
 
 # Site features
 
