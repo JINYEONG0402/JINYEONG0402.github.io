@@ -28,6 +28,15 @@ body {
   background-color: yellow;
 }
 
+.overlay-text card {
+  background: rgba(0, 0, 0, 0.5); /* 반투명한 검은색 배경 */
+  color: white; /* 텍스트 색상 */
+  padding: 10px; /* 패딩 추가 */
+  text-align: center; /* 텍스트 중앙 정렬 */
+  z-index: 1; /* 텍스트가 이미지 위에 위치 */
+  opacity: 0.5;
+}
+
 // Dark mode styles
 .dark body {
   background-color: rgb(31, 39, 51); /* 다크 모드 배경색 */
