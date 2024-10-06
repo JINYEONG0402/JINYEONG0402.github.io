@@ -14,7 +14,13 @@
 메뉴탬으로는 제 소개, 저의 학과 관련 홈페이지, 제가 수행했던 프로젝트, 연락하는 방법, IT관련 흥미로운것들을 배치했습니다.
 상단 가장자리에는 search 기능과 번역기능, 라이트모드, 다크모드를 배치했습니다.
 
+On the front page of the homepage, I placed a slider to give a brief self-introduction and to make the contents on my page look simple.
+As a menu table, I placed my introduction, my department-related homepage, projects I worked on, how to contact, and interesting things related to IT.
+Search function, translation function, light mode, and dark mode are placed at the top edge.
+
 여러분들도 저처럼 HUGO를 통해 쉽고 간편하게(?) 자신만의 포트폴리오를 만들어보세요
+
+Make your own portfolio easy and simple with HUGO like me
 
 - 👉 [**시작하기**](https://hugoblox.com/hugo-themes/)
 - 📚 [**휴고(HUGO)**참고사항](https://docs.hugoblox.com/)
@@ -23,9 +29,11 @@
 
 ## 휴고를 통해 개인 페이지를 만들며
 
-처음에는 생소한 언어와 github사용에 어려워서 갈아엎고, 또 엎고 했지만
-그래도 꽤 만족스러운 결과물이 나와서 다행이라고 생각한다.
-이번 기회에 개인페이지를 만들게 되어 너무 알차고 힘들었지만 기분은 좋았다.
+처음에는 생소한 언어사용과 github연동에 어려워서 갈아엎어서 다시 시작하고
+버벅거린감이 없지않아 있었지만 그래도 꽤 만족스러운 결과물이 나와서 다행이라고 생각한다. 이번 기회에 개인페이지를 만들고나니 기분이 좋다.
+
+At first, it was difficult to use unfamiliar language and link github, so I changed it and started again
+There was a feeling of stuttering, but I'm glad that the result came out quite satisfactory. I'm happy to take this opportunity to make a personal page.
 
 ## 참고 사이트
 
