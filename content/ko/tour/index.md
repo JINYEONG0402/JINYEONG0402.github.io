@@ -51,4 +51,7 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 4000
+      background:
+        color: rgb(247, 241, 244);
+      
 ---
