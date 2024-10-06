@@ -3,9 +3,12 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-defaultContentLanguage: ko-kr
+defaultContentLanguage:
+  code: ko-kr
 
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir:
+  enable: true
+
 ko:
   languageCode: ko-kr
   languageName: "한국어"
