@@ -3,7 +3,8 @@ title: Create an Android restaurant application using Cotlin
 date: 2023-12-15
 ---
 
-Provides personalized experience apps to provide personalized experience apps, and friends through additional functions.Using MySQL and PHP API to manage delicious user interface information, and location display functions such as Kakao API, search and location display function display functions
+This project develops an app that randomly recommends popular restaurants near Chonbuk National University and provides a wish list feature for users to manage their preferred restaurants. It fosters user interaction through friend-adding and review-writing functions, allowing users to share information, and delivers updates through a real-time notification system. Using MySQL, PHP API, and Kakao API, the app manages restaurant information and displays locations on maps, all within an intuitive and user-friendly interface.
+
 <!--more-->
 
 This project aims to emphasize its differentiation from existing restaurant applications and provide user-friendly functions. The main function of the app is the random recommendation function. Through this, it expands the user's choice by randomly recommending restaurants affiliated with Chonbuk National University. In addition, it provides a personalized experience by introducing a wish list function so that users can store and manage their preferred restaurants. The friend add function builds a system where users can add friends and share information on each other's restaurants.

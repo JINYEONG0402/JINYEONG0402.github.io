@@ -9,7 +9,7 @@ sections:
     content:
       slides:
         - title: Hello Nice to meet you.
-          content: "'m Ko Jin-young from Chonbuk National University's IT Intelligence and Information."
+          content: "I'm Koh Jin-young from Chonbuk National University's IT Intelligence and Information."
           align: center
           background:
             image:
