@@ -7,6 +7,7 @@
 ko:
   languageCode: ko-kr
   defaultContentLanguage: ko-kr
+  defaultContentLanguageInSubdir: true
   languageName: "한국어"
   weight: 1
   contentDir: "content/ko"
