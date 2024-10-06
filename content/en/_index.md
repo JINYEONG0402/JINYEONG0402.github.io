@@ -52,7 +52,7 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 4000
       background:
-        color: rgb(164, 239, 195);
+        color: rgb(221, 248, 232);
 
   - block: collection
     content:
@@ -73,7 +73,7 @@ sections:
       view: card
       columns: "1"
       background:
-        color: rgb(164, 239, 195);
+        color: rgb(221, 248, 232);
 
   - block: collection
     content:
@@ -94,7 +94,7 @@ sections:
       view: card
       columns: "1"
       background:
-        color: rgb(164, 239, 195);
+        color: rgb(221, 248, 232);
 
   - block: markdown
     content:
@@ -134,6 +134,8 @@ sections:
     design:
       view: card
       columns: "1"
+      background:
+        color: rgb(221, 248, 232);
 
   - block: markdown
     content:
@@ -143,4 +145,5 @@ sections:
         {{% cta cta_link="./contact/" cta_text=" send email →" %}}
     design:
       columns: "1"
+      color: rgb(221, 248, 232);
 ---
